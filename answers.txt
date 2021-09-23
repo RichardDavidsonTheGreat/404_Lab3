@@ -1,0 +1,8 @@
+1. print (os.environ)
+2. 'QUERY_STRING'
+3. 'HTTP_USER_AGENT'
+4. We get it via the command form = cgi.FieldStorage() and it comes as a form of key values pairs for all fields we have specified values for
+5. Print("Set-Cookie:User_id = Richard;/r/n")
+6. The Set-Cookie once again
+7. Cookies are used so that any protocol making use of cookies (such as http) can maintain states even if the browser is closed
+8. https://github.com/RichardDavidsonTheGreat/404_Lab3
